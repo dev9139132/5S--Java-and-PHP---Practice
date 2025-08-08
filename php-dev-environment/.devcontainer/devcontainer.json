@@ -1,0 +1,15 @@
+{
+  "name": "PHP Development Environment",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "php",
+  "workspaceFolder": "/workspace/src",
+  "settings": {
+    "php.validate.executablePath": "/usr/local/bin/php"
+  },
+  "extensions": [
+    "bmewburn.vscode-intelephense-client",
+    "felixfbecker.php-intellisense",
+    "mohitk05.php-debug"
+  ],
+  "postCreateCommand": "composer install"
+}
