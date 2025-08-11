@@ -1,5 +1,5 @@
 <?php
-<!-- filepath: /workspaces/5th-Sem---Java-Practice/php-dev-environment/src/1_Instr.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
