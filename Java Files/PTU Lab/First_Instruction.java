@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+// 1. Write a program to perform the following operations on two numbers input by the user:
+//    - Addition
+//    - Subtraction
+//    - Multiplication
+//    - Division
+
 public class First_Instruction {
 
     public static void main(String[] args)
