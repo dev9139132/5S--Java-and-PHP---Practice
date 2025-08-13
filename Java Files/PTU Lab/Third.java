@@ -4,7 +4,7 @@
 //    - Triangle
 //    - Square
 
-public class ThirdInstruction {
+public class Third {
     public static void main(String[] args) {
 
        final double PIE = 3.14;
@@ -24,9 +24,7 @@ public class ThirdInstruction {
 
         double side = 3;
         double areaS = side*side;
-        System.out.println("Area of square is: "+areaS);
-
-       
+        System.out.println("Area of square is: "+areaS);      
     }
     
 }

@@ -6,7 +6,7 @@ import java.util.Scanner;
 //    - Multiplication
 //    - Division
 
-public class First_Instruction {
+public class First {
 
     public static void main(String[] args)
     {
