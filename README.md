@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# 5th-Sem---Java-Practice
+# PHP=Java-Practice
 
 Sure! Let me explain the basics of the commands and concepts involved in resolving this issue.
 
