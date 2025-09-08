@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 5th-Sem---Java-Practice
 
 Sure! Let me explain the basics of the commands and concepts involved in resolving this issue.
@@ -99,3 +100,6 @@ Here’s a quick reference:
 - Push changes to remote: `git push`
 
 Let me know if you need further clarification!
+=======
+# Java-PHP-Practice
+>>>>>>> ed5eb3ab382947fd62a63c51131f768fb3bfcc92
