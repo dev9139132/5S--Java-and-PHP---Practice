@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# PHP-Java-Practice
+# Java-PHP-Practice
 
-Sure! Let me explain the basics of the commands and concepts involved in resolving this issue.
+Let me explain the basics of the commands and concepts involved in resolving this issue.
 
 ---
 
@@ -99,7 +98,4 @@ Here’s a quick reference:
 - Fetch only if fast-forward is possible: `git pull --tags origin main --ff-only`
 - Push changes to remote: `git push`
 
-Let me know if you need further clarification!
-=======
-# Java-PHP-Practice
->>>>>>> ed5eb3ab382947fd62a63c51131f768fb3bfcc92
+
