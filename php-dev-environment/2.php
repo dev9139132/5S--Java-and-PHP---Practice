@@ -40,7 +40,7 @@ function areaParallelogram($base,$height)
 
 echo "Area of Circle with radius 2 is: ".round(areaCircle(2),2)."\n";
 
-echo "Area of Rectangle with length 4 and width 3 is: ".areaRectangle(4,3),2."\n";
+echo "Area of Rectangle with length 4 and width 3 is: ".areaRectangle(4,3)."\n";
 
 echo "Area of Triangle is base 3 and height 3 is: ".round(areaTriangle(3,3),2)."\n";
 
