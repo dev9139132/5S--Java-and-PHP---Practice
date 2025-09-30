@@ -33,20 +33,20 @@ function areaTrapezoid($base1, $base2, $height)
     return (($base1 + $base2)*$height)/2;
 }
 
-echo "Area of Circle with radius 2 is: ".areaCircle(2)."\n";
-
-echo "Area of Rectangle with length 4 and width 3 is: ".areaRectangle(4,3)."\n";
-
-echo "Area of Triangle is base 4 and height 3 is: ".areaTriangle(4,3)."\n";
-
-echo "Area of Square with side 4 is: ".areaSquare(4)."\n";
-
-echo "Area of Trapezoid with base1 4, base2 3, and height 2 is: ".areaTrapezoid(4,3,2)."\n";
-
 function areaParallelogram($base,$height)
 {
     return $base*$height;
 }
+
+echo "Area of Circle with radius 2 is: ".round(areaCircle(2),2)."\n";
+
+echo "Area of Rectangle with length 4 and width 3 is: ".areaRectangle(4,3),2."\n";
+
+echo "Area of Triangle is base 3 and height 3 is: ".round(areaTriangle(3,3),2)."\n";
+
+echo "Area of Square with side 4 is: ".areaSquare(4)."\n";
+
+echo "Area of Trapezoid with base1 4, base2 3, and height 2 is: ".round(areaTrapezoid(4,3,2),2)."\n";
 
 echo "Area of Parallelogram with base 5 and height 3 is: ". areaParallelogram(5,3)."\n";
 
